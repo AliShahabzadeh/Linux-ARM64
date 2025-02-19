@@ -11,6 +11,9 @@ This repository serves as a curated collection of links to various Linux distrib
 > [!NOTE]
 > Note: To install Ubuntu Desktop, you must first install Ubuntu Server and then manually add the Ubuntu Desktop modules.
 
+### Debian 12
+[Debian 12](https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/)
+
 ### Arch Linux
 [ArchBoot](https://release.archboot.com/aarch64/latest/iso/)
 
