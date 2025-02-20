@@ -3,6 +3,8 @@
 ## Overview
 This repository serves as a curated collection of links to various Linux distributions available for the ARM64 architecture. These distributions can be used within an emulator on Apple Silicon devices.
 
+![Just a sample Screenshot](https://raw.githubusercontent.com/AliShahabzadeh/Linux-ARM64/main/src/Screenshots/Main.png)
+
 ## Available Distributions
 
 ### Ubuntu Server
