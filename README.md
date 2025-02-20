@@ -12,7 +12,7 @@ This repository serves as a curated collection of links to various Linux distrib
 > Note: To install Ubuntu Desktop, you must first install Ubuntu Server and then manually add the Ubuntu Desktop modules.
 
 ### Debian 12
-[Debian 12 - Net Install](https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/)
+[Debian 12 - Net Install](https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/)  
 [Debian 12 - DVD](https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/)
 
 > [!NOTE]
