@@ -12,7 +12,12 @@ This repository serves as a curated collection of links to various Linux distrib
 > Note: To install Ubuntu Desktop, you must first install Ubuntu Server and then manually add the Ubuntu Desktop modules.
 
 ### Debian 12
-[Debian 12](https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/)
+[Debian 12 - Net Install](https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/)
+[Debian 12 - DVD](https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/)
+
+> [!NOTE]
+> When using the Net Install .iso file, the network driver may not be recognized in Parallels Desktop.
+> To prevent this issue, it is recommended to use the DVD .iso file instead.
 
 ### Arch Linux
 [ArchBoot](https://release.archboot.com/aarch64/latest/iso/)
