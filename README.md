@@ -16,7 +16,7 @@ This repository serves as a curated collection of links to various Linux distrib
 [Debian 12 - DVD](https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/)
 
 > [!NOTE]
-> When using the Net Install .iso file, the network driver may not be recognized in Parallels Desktop.
+> When using the Net Install .iso file, the network driver may not be recognized in Parallels Desktop.  
 > To prevent this issue, it is recommended to use the DVD .iso file instead.
 
 ### Arch Linux
