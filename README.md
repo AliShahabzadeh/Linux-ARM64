@@ -7,34 +7,44 @@ This repository serves as a curated collection of links to various Linux distrib
 
 ## Available Distributions
 
-### Ubuntu Server
-- [Ubuntu Server](https://ubuntu.com/download/server/arm)
+<details>
+  <summary>Ubuntu</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://ubuntu.com/download/server/arm" target="_blank">Ubuntu Server</a></br>
+  </br><p><b>   Notes:</b></p>
+  - To install Ubuntu Desktop, you must first install Ubuntu Server and then manually add the Ubuntu Desktop modules.
+</details>
 
-> [!NOTE]
-> Note: To install Ubuntu Desktop, you must first install Ubuntu Server and then manually add the Ubuntu Desktop modules.
+<details>
+  <summary>Debian 12</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/" target="_blank">Debian 12 - Net Install</a></br>
+  <a href="https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/" target="_blank">Debian 12 - DVD</a></br>
+  </br><p><b>Notes:</b></p>
+  - When using the Net Install .iso file, the network driver may not be recognized in Parallels Desktop.</br>
+  - To prevent this issue, it is recommended to use the DVD .iso file instead.
+</details>
 
-### Debian 12
-- [Debian 12 - Net Install](https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/)  
-- [Debian 12 - DVD](https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/)
+<details>
+  <summary>Arch Linux</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://release.archboot.com/aarch64/latest/iso/" target="_blank">ArchBoot</a></br>
+  </br><p><b>Notes:</b></p>
+  - Installation is performed using ArchBoot.</br>
+  - ArchBoot does not support `archinstall`
+</details>
 
-> [!NOTE]
-> When using the Net Install .iso file, the network driver may not be recognized in Parallels Desktop.  
-> To prevent this issue, it is recommended to use the DVD .iso file instead.
+<details>
+  <summary>Gentoo Linux</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://www.gentoo.org/downloads/" target="_blank">Gentoo</a></br>
+</details>
 
-### Arch Linux
-- [ArchBoot](https://release.archboot.com/aarch64/latest/iso/)
-
-> [!NOTE]
-> Installation is performed using ArchBoot.
-
-> [!WARNING]
-> ArchBoot does not support `archinstall`
-
-### Gentoo Linux
-- [Gentoo](https://www.gentoo.org/downloads/)
-
-### Kali Linux
-- [Kali](https://www.kali.org)
+<details>
+  <summary>Kali Linux</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://www.kali.org" target="_blank">Kali Linux</a></br>
+</details>
 
 ## Validity
 > [!IMPORTANT]
