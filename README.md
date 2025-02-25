@@ -45,7 +45,7 @@ This repository serves as a curated collection of links to various Linux distrib
   </br><p><b>Links:</b></p>
   <a href="https://voidlinux.org/download/#arm%20platforms" target="_blank">Void Linux</a></br>
   </br><p><b>Notes:</b></p>
-  - The related section to download the .iso file is 'apple silicon (asahi)'
+  - The related section to download the .iso file is 'apple silicon (asahi)'.</br>
   - The ARM64 version of Void Linux is designed to be used primarily with Asahi which means as a separate partition on your system.
 </details>
 
