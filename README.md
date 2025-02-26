@@ -26,6 +26,14 @@ This repository serves as a curated collection of links to various Linux distrib
 </details>
 
 <details>
+  <summary>Fedora</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://alt.fedoraproject.org/alt/" target="_blank">Fedora Alternative Architectures</a></br>
+  </br><p><b>Notes:</b></p>
+  - The version to download is called 'Everything' which provides a .iso file.
+</details>
+
+<details>
   <summary>Arch Linux</summary>
   </br><p><b>Links:</b></p>
   <a href="https://release.archboot.com/aarch64/latest/iso/" target="_blank">ArchBoot</a></br>
