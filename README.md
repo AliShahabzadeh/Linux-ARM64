@@ -7,6 +7,8 @@ This repository serves as a curated collection of links to various Linux distrib
 
 ## Available Distributions
 
+### Mainstream distributions:
+
 <details>
   <summary>Ubuntu</summary>
   </br><p><b>Links:</b></p>
@@ -57,10 +59,18 @@ This repository serves as a curated collection of links to various Linux distrib
   - The ARM64 version of Void Linux is designed to be used primarily with Asahi which means as a separate partition on your system.
 </details>
 
+### Derived distributions:
+
 <details>
-  <summary>Kali Linux</summary>
+  <summary>Kali Linux (Debian based)</summary>
   </br><p><b>Links:</b></p>
   <a href="https://www.kali.org" target="_blank">Kali Linux</a></br>
+</details>
+
+<details>
+  <summary>Rhino Linux (Ubuntu based)</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://rhinolinux.org/download" target="_blank">Rhino Linux</a></br>
 </details>
 
 ## Validity
