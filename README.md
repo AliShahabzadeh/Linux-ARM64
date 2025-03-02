@@ -28,6 +28,15 @@ This repository serves as a curated collection of links to various Linux distrib
 </details>
 
 <details>
+  <summary>RedHat</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/arm/trial" target="_blank">RedHat Enterprise Linux for ARM64</a></br>
+  </br><p><b>Notes:</b></p>
+  - The ARM64 version of RedHat is not considered part of the Developer program for this project to be available for free.</br>
+  - The trial period lasts for 60 days.
+</details>
+
+<details>
   <summary>Fedora</summary>
   </br><p><b>Links:</b></p>
   <a href="https://alt.fedoraproject.org/alt/" target="_blank">Fedora Alternative Architectures</a></br>
