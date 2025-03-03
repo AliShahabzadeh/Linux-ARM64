@@ -5,7 +5,7 @@ This repository serves as a curated collection of links to various Linux distrib
 
 <img src="https://raw.githubusercontent.com/AliShahabzadeh/Linux-ARM64/main/src/Screenshots/Header.png" width="500" />
 
-## Available Distributions
+## Available Linux Distributions
 
 ### Mainstream distributions:
 
@@ -80,6 +80,14 @@ This repository serves as a curated collection of links to various Linux distrib
   <summary>Rhino Linux (Ubuntu based)</summary>
   </br><p><b>Links:</b></p>
   <a href="https://rhinolinux.org/download" target="_blank">Rhino Linux</a></br>
+</details>
+
+## Unix-Like operating systems
+
+<details>
+  <summary>Free BSD</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/14.2/" target="_blank">Rhino Linux</a></br>
 </details>
 
 ## Validity
