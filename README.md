@@ -87,7 +87,7 @@ This repository serves as a curated collection of links to various Linux distrib
 <details>
   <summary>Free BSD</summary>
   </br><p><b>Links:</b></p>
-  <a href="https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/14.2/" target="_blank">Rhino Linux</a></br>
+  <a href="https://download.freebsd.org/releases/arm64/aarch64/ISO-IMAGES/14.2/" target="_blank">Free BSD</a></br>
 </details>
 
 ## Validity
