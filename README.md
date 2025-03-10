@@ -82,6 +82,12 @@ This repository serves as a curated collection of links to various Linux distrib
   <a href="https://rhinolinux.org/download" target="_blank">Rhino Linux</a></br>
 </details>
 
+<details>
+  <summary>Rocky Linux (RedHat based)</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://rockylinux.org/download" target="_blank">Rocky Linux</a></br>
+</details>
+
 ## Unix-Like operating systems
 
 <details>
