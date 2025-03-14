@@ -88,6 +88,12 @@ This repository serves as a curated collection of links to various Linux distrib
   <a href="https://rockylinux.org/download" target="_blank">Rocky Linux</a></br>
 </details>
 
+<details>
+  <summary>IPFire</summary>
+  </br><p><b>Links:</b></p>
+  <a href="https://www.ipfire.org/downloads/ipfire-2.29-core192" target="_blank">IPFire</a></br>
+</details>
+
 ## Unix-Like operating systems
 
 <details>
